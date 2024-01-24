@@ -110,8 +110,8 @@
   background-repeat: no-repeat;
   min-height: 75vh;
   min-height: 75svh;
-  border-top-left-radius: 50% 50px;
-  border-top-right-radius: 50% 50px;
-  margin-top: -50px;
+  border-top-left-radius: 50% 30px;
+  border-top-right-radius: 50% 30px;
+  margin-top: -100px;
   background-blend-mode: darken;
 }

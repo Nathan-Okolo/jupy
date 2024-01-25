@@ -44,7 +44,6 @@ const Home = () => {
 							width={500}
 							height={500}
 							alt='Chart'
-							className='w-60 h-60 sm:w-80 sm:h-80'
 						/>
 					</div>
 					<div className='text-white flex flex-col gap-y-2 flex-1 mb-16 lg:mb-0'>
